@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-DevKitPro: 
+DevKitPro: https://devkitpro.org/wiki/Getting_Started
 
 ## Building
 
