@@ -2,7 +2,16 @@
 
 ## Prerequisites
 
+Git (if you are not downloading it manually): 
 DevKitPro: https://devkitpro.org/wiki/Getting_Started
+DevKitPPC: Get it using these commands below:
+```
+dkp-pacman -S wii-dev gamecube-dev
+```
+
+```
+pacman -S wii-dev gamecube-dev
+```
 
 ## Building
 
