@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <app version="1.0">
-	<name>NTP client</name>
+	<name>Cloudflare NTP client</name>
 	<version>1.0</version>
-	<release_date>202112290000</release_date>
-	<coder>Galaxy Master</coder>
+	<release_date>202422290000</release_date>
+	<coder>Sebby</coder>
 	<short_description>Network Time Protocol client</short_description>
 	<long_description>Set the system time from a Network Time Protocol (NTP) server.
 
