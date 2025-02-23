@@ -3,7 +3,7 @@
 	<name>Cloudflare NTP client</name>
 	<version>1.0</version>
 	<release_date>202422290000</release_date>
-	<coder>Sebby</coder>
+	<coder>Sebby Webby</coder>
 	<short_description>Network Time Protocol client</short_description>
 	<long_description>Set the system time from a Network Time Protocol (NTP) server.
 
